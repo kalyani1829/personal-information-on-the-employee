@@ -42,6 +42,12 @@ const AddMembers = () => {
                     <button type="submit">Add</button>
                 </form>
             </div>
+            <div>
+                <p>
+                    this is form of addmembers details informations
+                </p>
+            </div>
+            
         </>
     )
 }
